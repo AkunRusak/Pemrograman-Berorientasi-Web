@@ -1,0 +1,52 @@
+C:\Users\hp\AppData\Local\Temporary Projects\coba_ti21k1\bin\Debug\coba_ti21k1.exe
+C:\Users\hp\AppData\Local\Temporary Projects\coba_ti21k1\bin\Debug\coba_ti21k1.pdb
+C:\Users\hp\AppData\Local\Temporary Projects\coba_ti21k1\bin\Debug\coba_ti21k1.xml
+C:\Users\hp\AppData\Local\Temporary Projects\coba_ti21k1\obj\x86\Debug\coba_ti21k1.Form1.resources
+C:\Users\hp\AppData\Local\Temporary Projects\coba_ti21k1\obj\x86\Debug\coba_ti21k1.Resources.resources
+C:\Users\hp\AppData\Local\Temporary Projects\coba_ti21k1\obj\x86\Debug\coba_ti21k1.vbproj.GenerateResource.Cache
+C:\Users\hp\AppData\Local\Temporary Projects\coba_ti21k1\obj\x86\Debug\coba_ti21k1.exe
+C:\Users\hp\AppData\Local\Temporary Projects\coba_ti21k1\obj\x86\Debug\coba_ti21k1.xml
+C:\Users\hp\AppData\Local\Temporary Projects\coba_ti21k1\obj\x86\Debug\coba_ti21k1.pdb
+C:\Users\hp\onedrive\documents\visual studio 2010\Projects\coba_ti21k1\coba_ti21k1\obj\x86\Debug\coba_ti21k1.exe
+C:\Users\hp\onedrive\documents\visual studio 2010\Projects\coba_ti21k1\coba_ti21k1\obj\x86\Debug\coba_ti21k1.xml
+C:\Users\hp\onedrive\documents\visual studio 2010\Projects\coba_ti21k1\coba_ti21k1\obj\x86\Debug\coba_ti21k1.pdb
+C:\Users\hp\onedrive\documents\visual studio 2010\Projects\coba_ti21k1\coba_ti21k1\bin\Debug\coba_ti21k1.exe
+C:\Users\hp\onedrive\documents\visual studio 2010\Projects\coba_ti21k1\coba_ti21k1\bin\Debug\coba_ti21k1.pdb
+C:\Users\hp\onedrive\documents\visual studio 2010\Projects\coba_ti21k1\coba_ti21k1\bin\Debug\coba_ti21k1.xml
+C:\Users\hp\onedrive\documents\visual studio 2010\Projects\coba_ti21k1\coba_ti21k1\obj\x86\Debug\coba_ti21k1.Form1.resources
+C:\Users\hp\onedrive\documents\visual studio 2010\Projects\coba_ti21k1\coba_ti21k1\obj\x86\Debug\coba_ti21k1.lingkaran.resources
+C:\Users\hp\onedrive\documents\visual studio 2010\Projects\coba_ti21k1\coba_ti21k1\obj\x86\Debug\coba_ti21k1.Resources.resources
+C:\Users\hp\onedrive\documents\visual studio 2010\Projects\coba_ti21k1\coba_ti21k1\obj\x86\Debug\coba_ti21k1.vbproj.GenerateResource.Cache
+C:\Users\hp\onedrive\documents\visual studio 2010\Projects\coba_ti21k1\coba_ti21k1\obj\x86\Debug\coba_ti21k1.persegi_panjang.resources
+C:\Users\hp\onedrive\documents\visual studio 2010\Projects\coba_ti21k1\coba_ti21k1\obj\x86\Debug\coba_ti21k1.bola.resources
+C:\Users\hp\onedrive\documents\visual studio 2010\Projects\coba_ti21k1\coba_ti21k1\obj\x86\Debug\coba_ti21k1.Menuku.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\coba_ti21k1\obj\x86\Debug\coba_ti21k1.exe
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\coba_ti21k1\obj\x86\Debug\coba_ti21k1.xml
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\coba_ti21k1\obj\x86\Debug\coba_ti21k1.pdb
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\coba_ti21k1\bin\Debug\coba_ti21k1.exe
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\coba_ti21k1\bin\Debug\coba_ti21k1.pdb
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\coba_ti21k1\bin\Debug\coba_ti21k1.xml
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\coba_ti21k1\obj\x86\Debug\coba_ti21k1.bola.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\coba_ti21k1\obj\x86\Debug\coba_ti21k1.Form1.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\coba_ti21k1\obj\x86\Debug\coba_ti21k1.lingkaran.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\coba_ti21k1\obj\x86\Debug\coba_ti21k1.Menuku.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\coba_ti21k1\obj\x86\Debug\coba_ti21k1.Resources.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\coba_ti21k1\obj\x86\Debug\coba_ti21k1.persegi_panjang.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\coba_ti21k1\obj\x86\Debug\coba_ti21k1.vbproj.GenerateResource.Cache
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\bin\Debug\coba_ti21k1.exe
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\bin\Debug\coba_ti21k1.pdb
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\bin\Debug\coba_ti21k1.xml
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\obj\x86\Debug\coba_ti21k1.bola.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\obj\x86\Debug\coba_ti21k1.Form1.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\obj\x86\Debug\coba_ti21k1.Kondisi_IF.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\obj\x86\Debug\coba_ti21k1.lingkaran.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\obj\x86\Debug\coba_ti21k1.Menuku.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\obj\x86\Debug\coba_ti21k1.Resources.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\obj\x86\Debug\coba_ti21k1.persegi_panjang.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\obj\x86\Debug\coba_ti21k1.Warung.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\obj\x86\Debug\coba_ti21k1.vbproj.GenerateResource.Cache
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\obj\x86\Debug\coba_ti21k1.exe
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\obj\x86\Debug\coba_ti21k1.xml
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\obj\x86\Debug\coba_ti21k1.pdb
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\obj\x86\Debug\coba_ti21k1.Kalkulator_V2.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihan 2\coba_ti21k1\obj\x86\Debug\coba_ti21k1.KalkulatorSains.resources
