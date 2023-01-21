@@ -1,0 +1,11 @@
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\UTS\DwiPrasetyo202111002\DwiPrasetyo202111002\obj\x86\Debug\DwiPrasetyo202111002.Resources.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\UTS\DwiPrasetyo202111002\DwiPrasetyo202111002\obj\x86\Debug\DwiPrasetyo202111002.UTS202111002.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\UTS\DwiPrasetyo202111002\DwiPrasetyo202111002\obj\x86\Debug\DwiPrasetyo202111002.vbproj.GenerateResource.Cache
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\UTS\DwiPrasetyo202111002\DwiPrasetyo202111002\bin\Debug\DwiPrasetyo202111002.exe
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\UTS\DwiPrasetyo202111002\DwiPrasetyo202111002\bin\Debug\DwiPrasetyo202111002.pdb
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\UTS\DwiPrasetyo202111002\DwiPrasetyo202111002\bin\Debug\DwiPrasetyo202111002.xml
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\UTS\DwiPrasetyo202111002\DwiPrasetyo202111002\obj\x86\Debug\DwiPrasetyo202111002.exe
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\UTS\DwiPrasetyo202111002\DwiPrasetyo202111002\obj\x86\Debug\DwiPrasetyo202111002.xml
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\UTS\DwiPrasetyo202111002\DwiPrasetyo202111002\obj\x86\Debug\DwiPrasetyo202111002.pdb
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\UTS\DwiPrasetyo202111002\DwiPrasetyo202111002\obj\x86\Debug\DwiPrasetyo202111002.GajiKaryawan.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\UTS\DwiPrasetyo202111002\DwiPrasetyo202111002\obj\x86\Debug\DwiPrasetyo202111002.Menu.resources
