@@ -1,0 +1,18 @@
+C:\Users\lenovo\AppData\Local\Temporary Projects\Database\bin\Debug\Database.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\Database\bin\Debug\Database.pdb
+C:\Users\lenovo\AppData\Local\Temporary Projects\Database\bin\Debug\Database.xml
+C:\Users\lenovo\AppData\Local\Temporary Projects\Database\obj\x86\Debug\Database.Form1.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\Database\obj\x86\Debug\Database.Resources.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\Database\obj\x86\Debug\Database.vbproj.GenerateResource.Cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\Database\obj\x86\Debug\Database.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\Database\obj\x86\Debug\Database.xml
+C:\Users\lenovo\AppData\Local\Temporary Projects\Database\obj\x86\Debug\Database.pdb
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann7\Database\Database\obj\x86\Debug\Database.exe
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann7\Database\Database\obj\x86\Debug\Database.xml
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann7\Database\Database\obj\x86\Debug\Database.pdb
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann7\Database\Database\bin\Debug\Database.exe
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann7\Database\Database\bin\Debug\Database.pdb
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann7\Database\Database\bin\Debug\Database.xml
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann7\Database\Database\obj\x86\Debug\Database.Form1.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann7\Database\Database\obj\x86\Debug\Database.Resources.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann7\Database\Database\obj\x86\Debug\Database.vbproj.GenerateResource.Cache

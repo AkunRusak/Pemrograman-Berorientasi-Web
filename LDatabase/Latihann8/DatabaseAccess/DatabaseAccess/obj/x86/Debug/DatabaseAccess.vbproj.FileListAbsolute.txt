@@ -1,0 +1,9 @@
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann8\DatabaseAccess\DatabaseAccess\obj\x86\Debug\DatabaseAccess.Form1.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann8\DatabaseAccess\DatabaseAccess\obj\x86\Debug\DatabaseAccess.Resources.resources
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann8\DatabaseAccess\DatabaseAccess\obj\x86\Debug\DatabaseAccess.vbproj.GenerateResource.Cache
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann8\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.exe
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann8\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann8\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseAccess.xml
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann8\DatabaseAccess\DatabaseAccess\obj\x86\Debug\DatabaseAccess.exe
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann8\DatabaseAccess\DatabaseAccess\obj\x86\Debug\DatabaseAccess.xml
+D:\1KampusSIU\KELAS AKTIF\Pemrograman Berorientasi Objek. 4 SKS\Project\Latihann8\DatabaseAccess\DatabaseAccess\obj\x86\Debug\DatabaseAccess.pdb
